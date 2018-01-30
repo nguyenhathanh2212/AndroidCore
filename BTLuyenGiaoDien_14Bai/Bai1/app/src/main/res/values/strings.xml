@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Bai1</string>
+    <string name="btn_name_1">Button 1</string>
+    <string name="btn_name_2">Button 2</string>
+    <string name="btn_name_3">Button 3</string>
+    <string name="btn_name_4">Button 4</string>
+    <string name="btn_name_5">Button 5</string>
+    <string name="btn_name_6">Button 6</string>
+    <string name="btn_name_7">Button 7</string>
+    <string name="btn_name_8">Button 8</string>
+    <string name="btn_name_9">Button 9</string>
+</resources>
