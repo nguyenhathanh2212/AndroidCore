@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Problem8</string>
+    <string name="title">Quản lý công việc hàng tuần</string>
+    <string name="task">Công việc:</string>
+    <string name="content">Nội dung:</string>
+    <string name="dateFinish">Ngày HT:</string>
+    <string name="date">Date</string>
+    <string name="hourFinish">Giờ HT:</string>
+    <string name="time">Time</string>
+    <string name="addTask">Thêm CV</string>
+    <string name="listTask">Danh sách công việc:</string>
+</resources>
