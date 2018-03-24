@@ -1,0 +1,172 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.tdk.proplem9.TabFragment2">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_weight="2"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:src="@drawable/images2" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="fill_horizontal"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:paddingTop="20dp"
+                    android:paddingLeft="10dp"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:text="Cái gì đã tạo ra mặt trăng?." />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Một nghiên cứu mới khẳng định, mặt trăng được hình thành từ một đám bụi hình bánh vòng quanh hành ..."
+                    android:paddingLeft="10dp"
+                    android:textSize="15dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_weight="2"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:src="@drawable/images1" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="fill_horizontal"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:paddingTop="20dp"
+                    android:paddingLeft="10dp"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:text="Khám phá mới về Triton:" />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Có một quỹ đạo nghịch so với hành tinh mẹ, mặt trăng vệ tinh Triton thậm chí còn bị cho là đã nuốt gọn những mặt..."
+                    android:paddingLeft="10dp"
+                    android:textSize="15dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_weight="2"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:src="@drawable/images2" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="fill_horizontal"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:paddingTop="20dp"
+                    android:paddingLeft="10dp"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:text="Tiểu hành tinh nặng 79 tỷ kg." />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Một tiểu hành tinh khổng lồ có thể sẽ đâm vào Trái Đất vì tàu vũ trụ của NASA không thể làm chệch hướng bay của nó..."
+                    android:paddingLeft="10dp"
+                    android:textSize="15dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:layout_weight="2"
+            android:orientation="horizontal">
+
+            <ImageView
+                android:layout_width="150dp"
+                android:layout_height="wrap_content"
+                android:paddingTop="10dp"
+                android:src="@drawable/images1" />
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_gravity="fill_horizontal"
+                    android:ems="10"
+                    android:inputType="textPersonName"
+                    android:paddingTop="20dp"
+                    android:paddingLeft="10dp"
+                    android:textSize="18dp"
+                    android:textStyle="bold"
+                    android:textColor="#000"
+                    android:text="Cái gì đã tạo ra mặt trăng?." />
+
+                <TextView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="Một nghiên cứu mới khẳng định, mặt trăng được hình thành từ một đám bụi hình bánh vòng quanh hành ..."
+                    android:paddingLeft="10dp"
+                    android:textSize="15dp"/>
+
+            </LinearLayout>
+        </LinearLayout>
+
+    </LinearLayout>
+
+</RelativeLayout>

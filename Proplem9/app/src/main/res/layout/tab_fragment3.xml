@@ -1,0 +1,34 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.tdk.proplem9.TabFragment3"
+    android:orientation="vertical">
+
+    <!-- TODO: Update blank fragment layout -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:padding="10dp"
+        android:src="@drawable/images3" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="fill_horizontal"
+        android:ems="10"
+        android:inputType="textPersonName"
+        android:paddingLeft="20dp"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#2134de"
+        android:text="Cái gì đã tạo ra mặt trăng?." />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Sự hình thành của mặt trăng đã thu hút sự chú ý nghiên cứu của các nhà khoa học từ rất lâu. Và trước đây, các nhà khoa học tin rằng mặt trăng được hình thành do một hành tinh sơ khai có tên gọi Theia sượt qua trái đất một góc 45 độ. Theia có kích cỡ tương đương với sao Hỏa."
+        android:paddingLeft="20dp"
+        android:textSize="15dp"/>
+
+</LinearLayout>
